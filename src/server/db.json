@@ -1,0 +1,63 @@
+{
+  "heros": [{
+      "id": 1,
+      "name": "Iron Man",
+      "powerstats": {
+        "intelligence": "100",
+        "strength": "26",
+        "speed": "27",
+        "durability": "50",
+        "power": "47",
+        "combat": "100"
+      },
+      "image": "https://vignette.wikia.nocookie.net/omniversal-battlefield/images/e/e5/84DB1D82-AC8A-4163-B29A-8A954264E7DE.png/revision/latest/scale-to-width-down/400?cb=20190618194344",
+
+      "bio": "Praesent adipiscing. Phasellus consectetuer vestibulum elit. Etiam  sollicitudin, ipsum eu pulvinar rutrum, tellus ipsum laoreet sapien, quis venenatis ante odio sit amet eros. In ac felis quis tortor malesuada pretium.Cras id dui.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;Fusce id purus."
+    },
+    {
+      "id": 2,
+      "name": "Hulk",
+      "powerstats": {
+        "intelligence": "90",
+        "strength": "200",
+        "speed": "77",
+        "durability": "100",
+        "power": "67",
+        "combat": "101"
+      },
+      "image": "https://vignette.wikia.nocookie.net/omniversal-battlefield/images/b/b5/5701C6BF-3D93-450D-9295-79C5ED34FB9A.png/revision/latest/scale-to-width-down/1000?cb=20190625185340",
+
+      "bio": "Praesent adipiscing. Phasellus consectetuer vestibulum elit. Etiam  sollicitudin, ipsum eu pulvinar rutrum, tellus ipsum laoreet sapien, quis venenatis ante odio sit amet eros. In ac felis quis tortor malesuada pretium.Cras id dui.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;Fusce id purus."
+    },
+    {
+      "id": 3,
+      "name": "Captain America",
+      "powerstats": {
+        "intelligence": "70",
+        "strength": "87",
+        "speed": "57",
+        "durability": "90",
+        "power": "77",
+        "combat": "101"
+      },
+      "image": "https://vignette.wikia.nocookie.net/omniversal-battlefield/images/2/2a/MCU_captain_America_.png/revision/latest?cb=20190509025249",
+
+      "bio": "Praesent adipiscing. Phasellus consectetuer vestibulum elit. Etiam  sollicitudin, ipsum eu pulvinar rutrum, tellus ipsum laoreet sapien, quis venenatis ante odio sit amet eros. In ac felis quis tortor malesuada pretium.Cras id dui.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;Fusce id purus."
+    },
+    {
+      "id": 4,
+      "name": "Thor",
+      "powerstats": {
+        "intelligence": "50",
+        "strength": "87",
+        "speed": "97",
+        "durability": "90",
+        "power": "107",
+        "combat": "101"
+      },
+      "image": "https://vignette.wikia.nocookie.net/outlier-battles/images/c/ca/Thor-AOU-Render.png/revision/latest?cb=20180605073900",
+
+      "bio": "Praesent adipiscing. Phasellus consectetuer vestibulum elit. Etiam  sollicitudin, ipsum eu pulvinar rutrum, tellus ipsum laoreet sapien, quis venenatis ante odio sit amet eros. In ac felis quis tortor malesuada pretium.Cras id dui.Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;Fusce id purus."
+    }
+  ]
+}
